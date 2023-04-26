@@ -21,5 +21,5 @@ Recupera un hecho aleatorio de gatos y muestra una imagen de un gato con la prim
 # Intrucciones 
 Para ejecutar el proyecto en modo desarrollador ecribe en la linea de comandos `npm run dev`.
 
-Para ejecutar el buil y obtener los archivos estáticos escribe en la linea de comandos `npm run build`
+Para ejecutar el build y obtener los archivos estáticos escribe en la linea de comandos `npm run build`
 
